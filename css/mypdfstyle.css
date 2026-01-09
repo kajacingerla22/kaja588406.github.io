@@ -31,7 +31,7 @@ div{
         align-items:center;
         justify-content:space-between;
         height: 10%;
-        background-color: #bfe9f9;
+        background-color: #004aad;
 }
 
 a{
@@ -50,5 +50,6 @@ a:hover{
 }
 
 img {
-        margin-right: 20px;
+        margin-right: 50px;
 }
+
