@@ -1,0 +1,49 @@
+html   {
+        overflow: auto;
+        font-family: sans-serif;
+}
+
+html,
+body,
+object {
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+        border: none;
+}
+
+div,
+iframe,
+object {
+        display: block;
+        width: 100%;
+        border: none;
+        overflow-y: auto;
+        overflow-x: hidden;
+}
+
+iframe {
+        height: 90%;
+}
+
+div{
+        display: flex;
+        align-items:center;
+        justify-content:space-between;
+        height: 10%;
+}
+
+a{
+        color: #0000ff;
+        text-decoration: none;
+        cursor: cell;
+}
+
+a:visited{
+        color: #0000ff;
+}
+
+a:hover{
+        color: #ff0000;
+        text-shadow: 1px 1px #ccc;
+}
