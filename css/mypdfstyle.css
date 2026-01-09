@@ -31,6 +31,7 @@ div{
         align-items:center;
         justify-content:space-between;
         height: 10%;
+        baackground-coloe: blue;
 }
 
 a{
@@ -47,3 +48,4 @@ a:hover{
         color: #ff0000;
         text-shadow: 1px 1px #ccc;
 }
+
